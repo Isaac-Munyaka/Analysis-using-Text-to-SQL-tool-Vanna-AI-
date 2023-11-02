@@ -5,7 +5,7 @@ Vanna AI is Text to SQL tool for querrying Databases, where a text prompt  produ
 
 The SQL query,
 Pandas DataFrame,
-AI-suggested data visualization and 
-AI-recommended follow-up text prompts
+AI suggested data visualization and 
+AI recommended follow-up text prompts
 
-I used My github Repo Movie Database for this Analysis
+I used My github Repo; Movie Database for this Analysis
