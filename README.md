@@ -1,4 +1,4 @@
-# Analysis using Text to SQL tool Vanna AI
+# Analysis using Text to SQL tool (Vanna AI)
 
 Vanna is a Text to SQL tool for querrying Databases, where a text prompt  produces four outputs: 
 
